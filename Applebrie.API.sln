@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Applebrie.API", "Applebrie.API\Applebrie.API.csproj", "{51F05A23-7B89-4EA1-908C-F08743F0B78B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Applebrie.BLL", "Applebrie.BLL\Applebrie.BLL.csproj", "{9AAC465E-1243-4C95-9FF8-BF5FFE28868B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Applebrie.DAL", "Applebrie.DAL\Applebrie.DAL.csproj", "{EF66AAC5-CD40-4486-B779-67D7A5760790}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Applebrie.Common", "Applebrie.Common\Applebrie.Common.csproj", "{98F73357-6905-4E70-AC45-6600185D9EBA}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Applebrie.DB", "Applebrie.DB\Applebrie.DB.sqlproj", "{2FE8EAAE-FF83-4F08-887F-D4737D619592}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Applebrie.API.Tests", "Applebrie.API.Tests\Applebrie.API.Tests.csproj", "{36D4F8F4-1CE0-4392-B63A-5BEE1B84C408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F05A23-7B89-4EA1-908C-F08743F0B78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F05A23-7B89-4EA1-908C-F08743F0B78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F05A23-7B89-4EA1-908C-F08743F0B78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F05A23-7B89-4EA1-908C-F08743F0B78B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AAC465E-1243-4C95-9FF8-BF5FFE28868B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAC465E-1243-4C95-9FF8-BF5FFE28868B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAC465E-1243-4C95-9FF8-BF5FFE28868B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAC465E-1243-4C95-9FF8-BF5FFE28868B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF66AAC5-CD40-4486-B779-67D7A5760790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF66AAC5-CD40-4486-B779-67D7A5760790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF66AAC5-CD40-4486-B779-67D7A5760790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF66AAC5-CD40-4486-B779-67D7A5760790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F73357-6905-4E70-AC45-6600185D9EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F73357-6905-4E70-AC45-6600185D9EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F73357-6905-4E70-AC45-6600185D9EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F73357-6905-4E70-AC45-6600185D9EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE8EAAE-FF83-4F08-887F-D4737D619592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE8EAAE-FF83-4F08-887F-D4737D619592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE8EAAE-FF83-4F08-887F-D4737D619592}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2FE8EAAE-FF83-4F08-887F-D4737D619592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE8EAAE-FF83-4F08-887F-D4737D619592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE8EAAE-FF83-4F08-887F-D4737D619592}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{36D4F8F4-1CE0-4392-B63A-5BEE1B84C408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D4F8F4-1CE0-4392-B63A-5BEE1B84C408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D4F8F4-1CE0-4392-B63A-5BEE1B84C408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D4F8F4-1CE0-4392-B63A-5BEE1B84C408}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71C525D9-2889-49A6-9936-7F9FEC215EE1}
+	EndGlobalSection
+EndGlobal

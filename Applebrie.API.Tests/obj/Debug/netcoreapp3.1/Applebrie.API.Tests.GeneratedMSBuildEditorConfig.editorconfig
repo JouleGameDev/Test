@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Applebrie.API.Tests
+build_property.ProjectDir = C:\Users\joule\Downloads\Applebrie.API\Applebrie.API.Tests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

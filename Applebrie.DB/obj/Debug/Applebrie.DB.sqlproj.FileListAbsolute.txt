@@ -1,0 +1,6 @@
+C:\Users\joule\source\repos\Applebrie.API\Applebrie.DB\bin\Debug\Applebrie.DB.dacpac
+C:\Users\joule\source\repos\Applebrie.API\Applebrie.DB\bin\Debug\Applebrie.DB.dll
+C:\Users\joule\source\repos\Applebrie.API\Applebrie.DB\bin\Debug\Applebrie.DB.pdb
+C:\Users\joule\source\repos\Applebrie.API\Applebrie.DB\obj\Debug\Applebrie.DB.dll
+C:\Users\joule\source\repos\Applebrie.API\Applebrie.DB\obj\Debug\Applebrie.DB.pdb
+c:\Users\joule\source\repos\Applebrie.API\Applebrie.DB\obj\Debug\Applebrie.DB.sqlproj.AssemblyReference.cache
